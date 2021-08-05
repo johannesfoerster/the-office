@@ -1,0 +1,12 @@
+.btn-apply{
+    color: white;
+    padding: 15px 25px;
+    border-radius: 4px;
+    font-weight: bold;
+    background: rgba(52, 93, 126,0.5);
+    transition: background 0.3s ease;
+    margin-top: 10px;
+}
+.btn-apply:hover{
+  background-color: rgb(52, 93, 126);
+}

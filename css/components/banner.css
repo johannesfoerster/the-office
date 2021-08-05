@@ -1,0 +1,15 @@
+.banner {
+    background-image:linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://files.wallpaperpass.com/2019/10/the%20office%20wallpaper%2053%20-%201920x1080.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0;
+    text-align: center;
+}
+.banner p {
+  padding: 10px;
+  color: white;
+  font-size: larger;
+}
+.banner h1{
+  color: white;
+}
